@@ -1,0 +1,25 @@
+h1{
+    color:aqua
+}
+
+.header{
+    background-color: rgb(234, 20, 241);
+    display: flex;
+    justify-content: space-between;
+}
+.grid{
+    background-color:#FFFD80;
+    display: flex;
+    justify-content: space-evenly;
+}
+.footer{
+    background-color: #FA9494;
+    display: flex;
+    justify-content: flex-end;
+}
+p,h2{
+    text-align: center;
+}
+body{
+    background-color: #808080;
+}
